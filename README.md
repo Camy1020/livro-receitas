@@ -1,8 +1,18 @@
-# Livro de Receitas ![Foto do usuário](https://img.itdg.com.br/tdg/assets/default/users_avatars/user_avatar_original.png?mode=crop&width=70&height=70)
+# **<u>Livro de Receitas</u>** 👩🏽‍🍳
 
-Olá ! Bem vindo ao meu livro de receitas
+ღ Olá ! Bem vindo ao meu livro de receitas ❣ ღ
+
+### *Prato Salgados* 🥘
 
 - Strogonoff de Frango
-- Pavê
+- Feijoada
 
+## *Pratos Doces* 🍮
 
+- Pavê de Chocolate
+- Mosaico de Gelatina
+
+## *Bebidas* 🍹
+
+- Drink de Gin com picolé
+- Caipirinha
