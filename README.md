@@ -2,6 +2,7 @@
 
 Olá ! Bem vindo ao meu livro de receitas
 
- ![Ícone de envio de receita](https://img.itdg.com.br/tdg/assets/layout/blank.gif)![Ícone de envio de receita](https://img.itdg.com.br/tdg/assets/layout/blank.gif)
-
 - Strogonoff de Frango
+- Pavê
+
+
